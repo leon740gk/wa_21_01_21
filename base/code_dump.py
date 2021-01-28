@@ -113,10 +113,9 @@ if __name__ == '__main__':
     test_str_4 = "   Hello world   this is  not actually me   :)"
 
     print(zipper(test_str_1))
-
-
-
-
+    print(zipper(test_str_2))
+    print(zipper(test_str_3))
+    print(zipper(test_str_4))
 
 
 
