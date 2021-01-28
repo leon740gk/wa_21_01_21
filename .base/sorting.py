@@ -18,6 +18,7 @@ def insertion_sort(a_list: list) -> None:
 
 
 
+
 # O(N**2) ----------------- Choice Sort --------------------------------------
 def choice_sort(a_list: list) -> None:
     """
