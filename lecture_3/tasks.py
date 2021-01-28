@@ -11,6 +11,8 @@ elif age <= 50:
     print("You are welcome !")
 else:
     print("Go get some rest")
+    
+print("ololo)
 
 
 # Дан массив из строк. Определить максимально быстро и эффективно, есть ли в строках цифры.
